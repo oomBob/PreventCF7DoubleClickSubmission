@@ -28,6 +28,7 @@ function oom_prevent_doubleclick() {
     </script>
 
 <?php
+	
 } 
 
 //Place this DIV under CF7 Submit Button
